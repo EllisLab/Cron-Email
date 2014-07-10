@@ -37,5 +37,5 @@ the tagdata (i.e. not parsed) and placed at the bottom of the sent email. Think 
 
 ## Change Log
 
-- Version 1.1
+- 1.1
 	- Updated plugin to be 2.0 compatible
