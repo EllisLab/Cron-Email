@@ -27,7 +27,7 @@ the tagdata (i.e. not parsed) and placed at the top of the sent email. Think ema
 `{email_bottom}{/email_bottom}` - When parse_tag is set to "on" the content between this variable pair will be removed from
 the tagdata (i.e. not parsed) and placed at the bottom of the sent email. Think signature.
 
-## EXAMPLES
+## Examples
 
     {exp:cron plugin="cron_email" day="23" minute="59" to="webmaster@mysite.com" subject="Daily Email"}
 
@@ -35,8 +35,7 @@ the tagdata (i.e. not parsed) and placed at the bottom of the sent email. Think 
 
     {/exp:cron}
 
+## Change Log
 
-Version 1.1
-******************
-- Updated plugin to be 2.0 compatible
-
+- Version 1.1
+	- Updated plugin to be 2.0 compatible
