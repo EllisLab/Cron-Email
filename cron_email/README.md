@@ -40,6 +40,11 @@ the tagdata (i.e. not parsed) and placed at the bottom of the sent email. Think 
 
 ## Change Log
 
+- 2.0.1
+
+    - Added add-on icon
+    - Update license information
+
 - 2.0
 	- Updated plugin to be 3.0 compatible
 - 1.1
